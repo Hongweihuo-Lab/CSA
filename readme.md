@@ -4,7 +4,7 @@
 	 CSA is a practical implementation of the compressed suffix arrays (CSA) theory, 
 	 introduced by Roberto Grossi and Jeffrey Scott Vitter. CSA retains the high-order 
 	 entropy-compressed theoretical performance and introduces some improvements 
-	 in practice..
+	 in practice.
 ## How to use it?
 ###just for fun
 	 step 1:download or clone it
