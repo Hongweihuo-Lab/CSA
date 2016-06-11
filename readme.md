@@ -50,6 +50,12 @@
 ## Suffix Array Construction
 The current version uses Yuta Mori's fast suffix array construction library libdivsufsort version 2.0.1.
 
+## Contributors
+### code
+•	Longgang Chen
+###
+CSA is an implementation of the paper.
+Hongwei Huo, Longgang Chen, Jeffrey Scott Vitter, and Yakov Nekrich, A Practical Implementation of Compressed Suffix Arrays with Applications to Self-indexing, Data Compression Conference (DCC), Snowbird, USA, 2014, 292–301. http://www.ittc.ku.edu/~jsv/Papers/HCV13.PracticalCSAImplementation.pdf (extended version)
 
 ##ChangeLog  
 2014.6.7:We can borrow hybrid-ideas in My Czip project,mix pure-gamma and rl-gamma,It be helpful for compression-ratio.
