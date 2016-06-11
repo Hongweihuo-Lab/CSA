@@ -1,6 +1,6 @@
 #Compressed-Suffix-Array(CSA)
 
-##What is it?
+## What is it?
 	 CSA is a practical implementation of the compressed suffix arrays (CSA) theory, 
 	 introduced by Roberto Grossi and Jeffrey Scott Vitter. CSA retains the high-order 
 	 entropy-compressed theoretical performance and introduces some improvements 
