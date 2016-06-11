@@ -1,16 +1,7 @@
 #Compressed-Suffix-Array(CSA)
 
 ##What is it?
-	 CSA is a Succinct Data Structure(SDS), SDS can represent an object 
-	 as implicitly,and in space close to information-theoretic lower 
-	 bound of the object while supporting operations of the original 
-	 object efficiently. CSA is implicit expression of SA(suffix-array), 
-	 has the ability of fast pattern matching, and nedds little space.
-	 you can build a CSA-index for a document,and then you have mainly 
-	 there operations in your hands:
-	 counting: count how many a pattern occurs in the document.
-	 locating: locate all the positions where the pattern occurs.
-	 decompress: decompress a piece of the document.
+	 CSA is a practical implementation of the compressed suffix arrays (CSA) theory, introduced by Roberto Grossi and Jeffrey Scott Vitter. CSA retains the high-order entropy-compressed theoretical performance and introduces some improvements in practice..
 ## How to use it?
 ###just for fun
 	 step 1:download or clone it
