@@ -52,7 +52,7 @@ The current version uses Yuta Mori's fast suffix array construction library [lib
 
 ## Contributors
 ### code
-•	Longgang Chen
+•	Longgang Chen （陈龙刚）
 ### paper
 CSA is an implementation of the paper.
 
