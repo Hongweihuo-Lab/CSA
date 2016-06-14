@@ -3,8 +3,12 @@
 ## What is it?
 	 CSA is a practical implementation of the compressed suffix arrays (CSA) theory, 
 	 introduced by Roberto Grossi and Jeffrey Scott Vitter. CSA retains the high-order 
-	 entropy-compressed theoretical performance and introduces some improvements 
-	 in practice.
+	 entropy-compressed theoretical performance and introduces some improvements in practice.
+	 
+	 counting: compute the number of occurrences of a pattern P in the text T.
+	 locating: report the list of positions, where P occurs in T.
+	 extract: extraction of arbitrary portions of text T. 
+	 
 ## How to use it?
 ###just for fun
 	 step 1:download or clone it
