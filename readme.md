@@ -56,7 +56,7 @@ The current version uses Yuta Mori's fast suffix array construction library [lib
 
 ## Contributors
 ### code
-•	Longgang Chen （陈龙刚）
+•	Longgang Chen
 ### paper
 H. Huo, L. Chen, J. S. Vitter, and Y. Nekrich, A Practical Implementation of Compressed Suffix Arrays with Applications to Self-indexing, Data Compression Conference (DCC), Snowbird, USA, 2014, 292–301. 
 
