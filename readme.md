@@ -60,7 +60,7 @@ The current version uses Yuta Mori's fast suffix array construction library [lib
 ### paper
 H. Huo, L. Chen, J. S. Vitter, and Y. Nekrich, A Practical Implementation of Compressed Suffix Arrays with Applications to Self-indexing, Data Compression Conference (DCC), Snowbird, USA, 2014, 292–301. 
 
-##ChangeLog  
+## ChangeLog  
 2014.6.7: We can borrow hybrid-ideas in My Czip project, mix pure-gamma and rl-gamma. It would be helpful for compression.
 
 2014.10.27: fix a bug in CSA. Decompress, about memory leak
